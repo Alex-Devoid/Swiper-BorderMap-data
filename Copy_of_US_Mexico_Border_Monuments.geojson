@@ -1,0 +1,153 @@
+{
+"type": "FeatureCollection",
+"name": "Untitled layer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+  {
+  		 				 "type": "Feature",
+  		 				 "geometry": {
+  		 						 "type": "MultiLineString",
+  		 						 "coordinates": [
+  		 								 [[-113.331716,32.038278],[-112.850162,31.890032]],
+  										 [[-112.76757,31.8648],[ -112.634298,31.823911]]
+  		 						 ]
+  		 				 },
+  		 				 "properties": {
+  		 						 "project": "Tucson Sector Project 1",
+  								 "DHSPriority": "5",
+  								 "foot18": "$646 million for 38 miles of 18-foot-high barriers.",
+  								 "foot30": "$779 million for 38 miles of 30-foot-high barriers.",
+  								 "funding": "Moving forward with a plan to use Pentagon funding."
+
+
+  		 				 }
+  		 		 } ,{
+   				 				 "type": "Feature",
+   				 				 "geometry": {
+   				 						 "type": "LineString",
+   				 						 "coordinates": [
+   				 								 [-112.850162,31.88999921],[-112.76757,31.8648]
+   				 						 ]
+   				 				 },
+   				 				 "properties": {
+   				 						 "project": "Tucson Sector Project 2",
+  										 "DHSPriority": "6",
+  										 "foot18": "$85 million for 5 miles of 18-foot-high barriers.",
+  										"foot30": "$103 million for 5 miles of 30-foot-high barriers.",
+  										"funding": "Moving forward with a plan to use Pentagon funding."
+
+   				 				 }
+   				 		 }
+
+               ,{
+               				 "type": "Feature",
+               				 "geometry": {
+               						 "type": "MultiLineString",
+               						 "coordinates": [
+               								 [[-110.253863,31.333754 ], [-110.250286, 31.333767]],
+               								  [[-110.152548, 31.334154], [-110.147464, 31.334137]],
+               								  [[-109.453305, 31.333995], [-109.129344, 31.332759]]
+               						 ]
+               				 },
+               				 "properties": {
+               						 "project": "Tucson Sector Project 3",
+  												 "DHSPriority": "7",
+  												 "foot18": "$340 million for 20 miles of 18-foot-high barriers.",
+  												"foot30": "$410 million for 20 miles of 30-foot-high barriers.",
+  												"funding": "Moving forward with a plan to use Pentagon funding."
+               				 }
+               		 },
+
+  										 {
+  										 				 "type": "Feature",
+  										 				 "geometry": {
+  										 						 "type": "LineString",
+  										 						 "coordinates": [
+  										 								 [-114.726013,32.704197],[-114.764632,32.642102]
+  										 						 ]
+  										 				 },
+  										 				 "properties": {
+  										 						 "project": "Yuma Sector Project 1",
+  																 "DHSPriority": "1",
+  																 "foot18": "$85 million for 5 miles of 18-foot-high barriers.",
+  																 "foot30": "$103 million for 5 miles of 30-foot-high barriers.",
+  																 "funding": "Moving forward with a plan to use Pentagon funding."
+
+  										 				 }
+  										 		 },
+  												 {
+  												 				 "type": "Feature",
+  												 				 "geometry": {
+  												 						 "type": "MultiLineString",
+  												 						 "coordinates": [
+  												 								 [[-114.4268201,32.37755528],[-114.3623999,32.3579244]],
+  																				 [[-114.8011175,32.51419938],[-114.8116619,32.49350559]]
+
+
+  												 						 ]
+  												 				 },
+  												 				 "properties": {
+  												 						 "project": "Yuma Sector Project 2",
+  																		 "DHSPriority": "2",
+  																		 "foot18": "$102 million for 6 miles of 18-foot-high barriers.",
+  																		"foot30": "$123 million for 6 miles of 30-foot-high barriers.",
+  																		"funding": "2018 Budget"
+
+  												 				 }
+  												 		 },
+  														 
+  																{
+  	 																		"type": "Feature",
+  	 																		"geometry": {
+  	 																				"type": "LineString",
+  	 																				"coordinates": [
+
+  	 																						[-115.922787,32.63273],[-115.662399,32.652563]
+
+
+  	 																				]
+  	 																		},
+  	 																		"properties": {
+  	 																				"project": "El Centro Sector Project 1",
+  																					"DHSPriority": "4",
+  																					"foot18": "$259 million for 15.25 miles of 18-foot-high barriers.",
+  																					"foot30": "$313 million for 15.25 miles of 30-foot-high barriers.",
+  																					"funding": "Moving forward with a plan to use Pentagon funding."
+
+  	 																		}
+  	 																},
+  																	{
+  		 																		"type": "Feature",
+  		 																		"geometry": {
+  		 																				"type": "MultiLineString",
+  		 																				"coordinates": [
+
+  		 																						[[-107.923151,31.7837],[-107.679049,31.783689]],
+  																								[[-107.573919,31.783672],[-107.038154,31.783741]]
+
+
+  		 																				]
+  		 																		},
+  		 																		"properties": {
+  		 																				"project": "El Paso Sector Project 1",
+  																						"DHSPriority": "3",
+  																						"foot18": "$255 million for 15 miles of 18-foot-high barriers in segment one and $527 million for 31 miles of 18-foot-high barriers in segment two.",
+  																						"foot30": "$308 million for 15 miles of 30-foot-high barriers in segment one and $636 million for 31 miles of 18-foot-high barriers in segment two.",
+  																						"funding": "Moving forward with a plan to use Pentagon funding."
+
+  		 																		}
+  		 																},
+
+
+{ "type": "Feature", "properties": { "Name": "Line 80", "description": null, "tessellate": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ -113.4644375, 32.0802532 ], [ -113.9535374, 32.2325954 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Line 81", "description": null, "tessellate": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ -113.9550211, 32.2330411 ], [ -113.9535374, 32.2325954 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Line 82", "description": null, "tessellate": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ -113.4644375, 32.0802532 ], [ -113.4579953, 32.0780816 ] ] } },
+
+{ "type": "Feature", "properties": { "Name": "Yuma 2 Military COnstruction projects", "description": null, "tessellate": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ -114.3874759, 32.3655281 ], [ -114.3552803, 32.3557689 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Yuma 6 Military ", "description": null, "tessellate": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ -114.7229098, 32.7184937 ], [ -114.731449, 32.717942 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Yuma 6", "description": null, "tessellate": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ -114.7194739, 32.718488 ], [ -114.7258254, 32.7050554 ] ] } },
+
+{ "type": "Feature", "properties": { "Name": "yuma 6 secondary", "description": null, "tessellate": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ -114.7586113, 32.7161091 ], [ -114.724293, 32.718333 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Yuma 6 Mile", "description": null, "tessellate": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ -114.7192561, 32.7184329 ], [ -114.725629, 32.7049823 ] ] } }
+]
+}
