@@ -38,8 +38,21 @@
 
    				 				 }
    				 		 }
-
                ,{
+   				 				 "type": "Feature",
+   				 				 "geometry": {
+   				 						 "type": "LineString",
+   				 						 "coordinates": [
+   				 								 [-114.564712,32.418472 ],[-114.069694,32.268615]
+   				 						 ]
+   				 				 },
+   				 				 "properties": {
+   				 						 "project": "Yuma 3 Military"
+
+   				 				 }
+   				 		 }
+
+              ,{
                				 "type": "Feature",
                				 "geometry": {
                						 "type": "MultiLineString",
