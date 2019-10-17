@@ -143,22 +143,7 @@
       ]
     }
   },
-    {  "type": "Feature",
-      "properties": {
-        "id": "Yuma",
-        "Marijuana": 0,
-        "Cocaine": 0,
-        "Heroin":0,
-        "Meth":	0,
-        "Fentanyl":0
-      },
-      "geometry": {
-      "type": "MultiPoint",
-      "coordinates": [
-        [-114.623608441000783, 32.685277525863398]
-      ]
-    }
-  },
+    
   {  "type": "Feature",
     "properties": {
       "id": "Lukeville",
