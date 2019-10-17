@@ -11,11 +11,11 @@
       "type": "Feature",
       "properties": {
         "id": "Yuma Corridor",
-        "Marijuana": 1448,
-        "Cocaine": 15,
-        "Heroin":6,
-        "Meth":	564,
-        "Fentanyl":0
+        "Marijuana": 3200,
+        "Cocaine": 35,
+        "Heroin":12,
+        "Meth":	1300,
+        "Fentanyl":6
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36,11 +36,11 @@
       "type": "Feature",
       "properties": {
         "id": "West Desert Corridor",
-        "Marijuana": 11848,
-        "Cocaine": 41,
-        "Heroin":1,
-        "Meth":	58,
-        "Fentanyl":3
+        "Marijuana": 26200,
+        "Cocaine": 90,
+        "Heroin":3,
+        "Meth":	120,
+        "Fentanyl":8
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63,11 +63,11 @@
       "type": "Feature",
       "properties": {
         "id": "Interstate 19 Corridor",
-        "Marijuana": 1628,
-        "Cocaine": 43.1,
-        "Heroin":21.4,
-        "Meth":	209,
-        "Fentanyl":16.7
+        "Marijuana": 4600,
+        "Cocaine": 193,
+        "Heroin":52,
+        "Meth":	975,
+        "Fentanyl":38
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92,7 +92,7 @@
       "type": "Feature",
       "properties": {
         "id": "Cochise Corridor",
-        "Marijuana": 2417,
+        "Marijuana": 15300,
         "Cocaine": 0,
         "Heroin":0,
         "Meth":	0,
@@ -131,10 +131,10 @@
       "properties": {
         "id": "San Luis",
         "Marijuana": 0,
-        "Cocaine": 110,
-        "Heroin":42,
-        "Meth":	1726,
-        "Fentanyl":18
+        "Cocaine": 240,
+        "Heroin":90,
+        "Meth":	3800,
+        "Fentanyl":40
       },
       "geometry": {
       "type": "MultiPoint",
@@ -147,11 +147,11 @@
   {  "type": "Feature",
     "properties": {
       "id": "Lukeville",
-      "Marijuana": 863,
+      "Marijuana": 2100,
       "Cocaine": 0,
-      "Heroin":10,
-      "Meth":	495,
-      "Fentanyl":10
+      "Heroin":20,
+      "Meth":	1100,
+      "Fentanyl":20
     },
     "geometry": {
     "type": "MultiPoint",
@@ -163,7 +163,7 @@
 {  "type": "Feature",
   "properties": {
     "id": "Sasabe",
-    "Marijuana": 61,
+    "Marijuana": 130,
     "Cocaine": 0,
     "Heroin":0,
     "Meth":	0,
@@ -179,11 +179,11 @@
 {  "type": "Feature",
   "properties": {
     "id": "Nogales",
-    "Marijuana": 1075,
-    "Cocaine": 395,
-    "Heroin":273,
-    "Meth":	2400,
-    "Fentanyl":33.5
+    "Marijuana": 2400,
+    "Cocaine": 870,
+    "Heroin":600,
+    "Meth":	5300,
+    "Fentanyl":74
   },
   "geometry": {
   "type": "MultiPoint",
@@ -195,10 +195,10 @@
 {  "type": "Feature",
   "properties": {
     "id": "Naco",
-    "Marijuana": 14,
-    "Cocaine": 9,
-    "Heroin":1,
-    "Meth":	44,
+    "Marijuana": 30,
+    "Cocaine": 20,
+    "Heroin":2,
+    "Meth":	97,
     "Fentanyl":0
   },
   "geometry": {
@@ -210,11 +210,11 @@
 },{  "type": "Feature",
   "properties": {
     "id": "Douglas",
-    "Marijuana": 2528,
-    "Cocaine": 2,
-    "Heroin":69,
-    "Meth":	18.1,
-    "Fentanyl":18.2
+    "Marijuana": 5570,
+    "Cocaine": 4,
+    "Heroin":152,
+    "Meth":	36,
+    "Fentanyl":40
   },
   "geometry": {
   "type": "MultiPoint",
